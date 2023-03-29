@@ -20,7 +20,7 @@ Ext.define('MyApp.view.main.List', {
         { text: 'Email', dataIndex: 'email', flex: 1 },
         { text: 'Phone', dataIndex: 'phone', flex: 1 }
     ],
-
+    // 4. LẮNG NGHE SỰ KIỆN - "SELECT ITEM" => gọi đến hàm "onItemSelected" trong "CONTROLLER (của MAIN)"
     listeners: {
         select: 'onItemSelected'
     }

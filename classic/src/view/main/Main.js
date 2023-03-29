@@ -18,6 +18,7 @@ Ext.define('MyApp.view.main.Main', {
         'MyApp.view.main.List'
     ],
 
+    // 2. MAIN khai báo sử dụng CONTROLLER = 'controller.main'
     controller: 'main',
     viewModel: 'main',
 
@@ -78,6 +79,7 @@ Ext.define('MyApp.view.main.Main', {
         title: 'Home',
         iconCls: 'fa-home',
         // The following grid shares a store with the classic version's grid as well!
+        // 1. MAIN - SỬ DỤNG - "VIEW = LIST.JS" ==> LIST.JS ăn CONTROLLER - của MAIN = "MAIN CONTROLLER"
         items: [{
             xtype: 'mainlist'
         }]
