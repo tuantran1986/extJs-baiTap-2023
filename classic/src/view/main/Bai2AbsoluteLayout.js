@@ -1,4 +1,4 @@
-Ext.define('MyApp.view.main.AbsoluteLayout', {
+Ext.define('MyApp.view.main.Bai2AbsoluteLayout', {
 
     // 1. extend - từ - Ext.panel.Panel
     extend: 'Ext.panel.Panel',
