@@ -17,5 +17,6 @@ Ext.application({
     // mainView: 'MyApp.view.main.Main'
     // mainView: 'MyApp.view.main.Bai2AbsoluteLayout'
     // mainView: 'MyApp.view.main.Bai3VboxLayout'
-    mainView: 'MyApp.view.main.Bai4HboxLayout'
+    // mainView: 'MyApp.view.main.Bai4HboxLayout'
+    mainView: 'MyApp.view.main.Bai5TableLayout'
 });
