@@ -15,9 +15,20 @@ Ext.application({
 
     // The name of the initial view to create.
     // mainView: 'MyApp.view.main.Main'
+
     // mainView: 'MyApp.view.main.Bai2AbsoluteLayout'
     // mainView: 'MyApp.view.main.Bai3VboxLayout'
     // mainView: 'MyApp.view.main.Bai4HboxLayout'
+    
     // mainView: 'MyApp.view.main.Bai5TableLayout'
-    mainView: 'MyApp.view.main.Bai5TableLayoutVersion2'
+    // mainView: 'MyApp.view.main.Bai5TableLayoutVersion2'
+
+    // BÀI 6
+    // mainView: 'MyApp.view.main.Bai6CenterLayout-1'
+    // mainView: 'MyApp.view.main.Bai6CenterLayout-2'
+    // mainView: 'MyApp.view.main.Bai6CenterLayout-3'   // CHƯA CODE - FOR
+
+    // BÀI 
+
+
 });
