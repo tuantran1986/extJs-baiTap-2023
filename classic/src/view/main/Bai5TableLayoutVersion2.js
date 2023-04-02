@@ -29,6 +29,7 @@ Ext .define('MyApp.view.main.Bai5TableLayoutVersion2', {
         },
         {
             html: 'Cell C component',
+            cellCls: 'hightlight',      // CLASS gắn vào CELL này
         },
         {
             html: 'Cell D component',
